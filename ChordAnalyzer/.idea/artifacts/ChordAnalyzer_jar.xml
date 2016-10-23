@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChordAnalyzer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChordAnalyzer_jar</output-path>
+    <root id="archive" name="ChordAnalyzer.jar">
+      <element id="module-output" name="ChordAnalyzer" />
+    </root>
+  </artifact>
+</component>
